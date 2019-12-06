@@ -10,7 +10,7 @@ pool:
   vmImage: 'windows-latest'
 
 variables:
-  solution: 'NonXAFSecurityExamples.NetCore.sln'
+  solution: 'NonXAFSecurityExamples.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
